@@ -44,4 +44,4 @@ the last digits.
 
 ## Licence
 
-Code: MIT (see `LICENSE`). Data: CC BY 4.0, with acknowledgement of the original dissertation (see `data/README.md`).
+Code: MIT (see `LICENSE`). Data: CC BY 4.0, with acknowledgement of the original work (see `data/README.md`).
