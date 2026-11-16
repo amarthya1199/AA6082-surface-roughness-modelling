@@ -10,10 +10,6 @@
 | `d` | Axial depth of cut | mm |
 | `Ra` | Arithmetic mean roughness | µm |
 
-**Source.** The machining experiments and roughness measurements were carried out in 2016 by Maradana Siva
-for his M.Tech dissertation at Gayatri Vidya Parishad College of Engineering (Autonomous), Visakhapatnam,
-India. The present repository re-analyses those measurements.
-
 **Correction.** Run 7 is analysed at N = 1500 rpm, the level set by the Box–Behnken design. The reasons are
 explained in Section 2.2 of the paper.
 
