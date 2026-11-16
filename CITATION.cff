@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "AA6082 end milling: RSM and ANN models of surface roughness under leave-one-out validation (code and data)"
+authors:
+  - family-names: "Krishna Kiran"
+    given-names: "P. SVKSV"
+    orcid: "https://orcid.org/0000-0003-3757-123X"
+  - family-names: "Singampalli"
+    given-names: "Amarthya"
+    orcid: "https://orcid.org/0000-0002-7001-3996"
+  - family-names: "Kameswara Sarma"
+    given-names: "Nagabhatla"
+    orcid: "https://orcid.org/0009-0005-2939-0588"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
